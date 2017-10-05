@@ -15,7 +15,7 @@ h1, h2 {
 }
 
 figcaption {
-  font-size: 1rem;
+  font-size: .8rem;
   font-style: italic;
   text-align: center;
 }
@@ -32,4 +32,8 @@ nav a:hover {
 
 ol {
   list-style-type: none;
+}
+
+.hadro {
+  font-size: 1rem;
 }
